@@ -4,7 +4,6 @@
     "code": "too",
     "full": "Товарищество с ограниченной ответственностью",
     "short": "ТОО",
-    "is_jur": true,
     "parent_id": null,
     "account_type": "too"
   },
@@ -13,7 +12,6 @@
     "code": "else_jur",
     "full": "Прочие юр. лица",
     "short": "Прочие юр. лица",
-    "is_jur": true,
     "parent_id": null,
     "account_type": null
   },
@@ -22,7 +20,6 @@
     "code": "pt",
     "full": "Полное товарищество",
     "short": "ПТ",
-    "is_jur": true,
     "parent_id": 2,
     "account_type": "too"
   },
@@ -31,7 +28,6 @@
     "code": "kt",
     "full": "Коммандитное товарищество",
     "short": "КТ",
-    "is_jur": true,
     "parent_id": 2,
     "account_type": "too"
   },
@@ -40,7 +36,6 @@
     "code": "tdo",
     "full": "Товарищество с дополнительной ответственностью",
     "short": "ТДО",
-    "is_jur": true,
     "parent_id": 2,
     "account_type": "too"
   },
@@ -49,7 +44,6 @@
     "code": "ao",
     "full": "Акционерное общество",
     "short": "АО",
-    "is_jur": true,
     "parent_id": 2,
     "account_type": "too"
   },
@@ -58,7 +52,6 @@
     "code": "prz",
     "full": "Производственный кооператив",
     "short": "ПК",
-    "is_jur": true,
     "parent_id": 2,
     "account_type": "too"
   },
@@ -67,7 +60,6 @@
     "code": "uch",
     "full": "Учреждение",
     "short": "Учреждение",
-    "is_jur": true,
     "parent_id": 2,
     "account_type": "too"
   },
@@ -76,7 +68,6 @@
     "code": "oo",
     "full": "Общественное объединение",
     "short": "ОО",
-    "is_jur": true,
     "parent_id": 2,
     "account_type": "too"
   },
@@ -85,7 +76,6 @@
     "code": "ptr",
     "full": "Потребительский кооператив",
     "short": "ОО",
-    "is_jur": true,
     "parent_id": 2,
     "account_type": "too"
   },
@@ -94,7 +84,6 @@
     "code": "ro",
     "full": "Религиозное объединение",
     "short": "РО",
-    "is_jur": true,
     "parent_id": 2,
     "account_type": "too"
   },
@@ -103,7 +92,6 @@
     "code": "fnd",
     "full": "Фонд",
     "short": "Фонд",
-    "is_jur": true,
     "parent_id": 2,
     "account_type": "too"
   },
@@ -112,7 +100,6 @@
     "code": "oul",
     "full": "Объединение юридических лиц в форме ассоциации",
     "short": "ОЮЛ",
-    "is_jur": true,
     "parent_id": 2,
     "account_type": "too"
   },
@@ -121,7 +108,6 @@
     "code": "ip",
     "full": "Индивидуальный предприниматель",
     "short": "ИП",
-    "is_jur": false,
     "parent_id": null,
     "account_type": "ip"
   },
@@ -130,7 +116,6 @@
     "code": "chp",
     "full": "Частная практика",
     "short": "ЧП",
-    "is_jur": false,
     "parent_id": null,
     "account_type": null
   },
@@ -139,7 +124,6 @@
     "code": "not",
     "full": "Частный нотариус",
     "short": "ЧН",
-    "is_jur": false,
     "parent_id": 15,
     "account_type": "chp"
   },
@@ -148,7 +132,6 @@
     "code": "sud",
     "full": "Частный судебный исполнитель",
     "short": "ЧСИ",
-    "is_jur": false,
     "parent_id": 15,
     "account_type": "chp"
   },
@@ -157,7 +140,6 @@
     "code": "adv",
     "full": "Адвокат",
     "short": "Адвокат",
-    "is_jur": false,
     "parent_id": 15,
     "account_type": "chp"
   },
@@ -166,7 +148,6 @@
     "code": "med",
     "full": "Профессиональный медиатор",
     "short": "ПМ",
-    "is_jur": false,
     "parent_id": 15,
     "account_type": "chp"
   },
@@ -175,7 +156,6 @@
     "code": "fiz",
     "full": "Физическое лицо",
     "short": "ФЛ",
-    "is_jur": false,
     "parent_id": null,
     "account_type": "fiz"
   },
@@ -184,7 +164,6 @@
     "code": "chk",
     "full": "Частная компания",
     "short": "ЧК",
-    "is_jur": true,
     "parent_id": 2,
     "account_type": "too"
   }
